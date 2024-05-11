@@ -1,3 +1,5 @@
+<h1> The Gaming Journey - utilizando boilerplate Electron, React, SQLite </h1>
+
 <img src=".erb/img/erb-banner.svg" width="100%" />
 
 <br>
